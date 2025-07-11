@@ -1,0 +1,11 @@
+股票模拟交易系统
+=================
+
+1. 双击'股票模拟交易系统.exe'启动程序
+add_stocks.py是增加股票代码
+view_database.py是查看当前数据库表
+stock_simulation_system.py和exe是两种运行方式
+2. 默认用户名和密码:
+   - 管理员: admin / admin123
+   - 普通用户: user / user123
+3. 如有问题请联系开发者
